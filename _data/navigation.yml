@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/CV_Axel_Malmcrona_.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
