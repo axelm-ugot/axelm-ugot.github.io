@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Axel Malmcrona"
 title_separator          : "-"
 name                     : &name "Axel Malmcrona"
-description              : &description "PhD-student at Gothernburg University"
+description              : &description "PhD-student at Gothenburg University"
 url                      : https://axelm-ugot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axelm-ugot.github.io"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "axelm.bsky.app" # Replace this with you Bluesky username
+  bluesky          : "axelm.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
