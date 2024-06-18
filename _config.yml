@@ -26,8 +26,8 @@ author:
   pronouns         : "he/him/his"  
   bio              : "3rd year PhD-student"
   location         : "Sweden"
-  employer         : "Gothenburg University"
-  uri              :  https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona
+  employer         : ["Gothenburg University"](https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona)
+  uri              : # URL
   email            : "axel.malmcrona@gu.economics.se" 
 
   # Academic websites
