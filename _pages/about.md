@@ -24,4 +24,4 @@ My research area is **labor economics** and my supervisors are **Johan Stennek**
 
 
 
-© 2024 Axel Malmcrona. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+<small> © 2024 Axel Malmcrona. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
