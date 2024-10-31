@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gone fishing!"
+title: "Presentation"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,8 @@ My research area is **labor economics** and my supervisors are [**Johan Stennek*
 
 **Work in progress**
 
-Competition on the Labor Market
+*Competition on the Labor Market*
+
 with [Theodor Friederiszick](https://sites.google.com/view/theodorfriederiszick) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
 
