@@ -11,7 +11,7 @@ redirect_from:
         <title>Example</title>
         <style>
 pre{
-padding:2px;
+padding:1px;
 margin:1px;
 }
 </style>
@@ -27,9 +27,9 @@ margin:1px;
 
 I am a **4th year PhD student** in Economics at [Gothenburg University](https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona).
 
-My research area is **labor economics** where I focus on the the labor market effects of competition. My supervisors are [**Johan Stennek**](https://stennek.se/Home) and [**Andreas Dzemski**](https://adzemski.github.io/).
+My research area is **labor economics** where I focus on the the labor market effects of competition. My supervisors are [Johan Stennek](https://stennek.se/Home) and [Andreas Dzemski](https://adzemski.github.io/).
 
-In the spring of 2026 I will be on a research visit to Central European University in Vienna where I will visit [**Andrea Weber**](https://sites.google.com/site/andreaweberkirchweger/).
+In the spring of 2026 I will be on a research visit to Central European University in Vienna where I will visit [Andrea Weber](https://sites.google.com/site/andreaweberkirchweger/).
 
 
 **Work in progress**
