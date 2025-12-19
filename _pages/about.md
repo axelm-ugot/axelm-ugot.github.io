@@ -12,7 +12,7 @@ redirect_from:
         <style>
 pre{
 padding:2px;
-margin:2px;
+margin:1px;
 }
 </style>
     </head>
