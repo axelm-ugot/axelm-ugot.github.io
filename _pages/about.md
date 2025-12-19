@@ -12,18 +12,24 @@ redirect_from:
     </head>
     <body>
         <pre>
-                      |                       |                                          
-   _` | \ \  /   _ \  |     __ `__ \    _` |  |  __ `__ \    __|   __| _ \  __ \    _` | 
-  (   |  `  <    __/  |     |   |   |  (   |  |  |   |   |  (     |   (   | |   |  (   | 
- \__,_|  _/\_\ \___| _|    _|  _|  _| \__,_| _| _|  _|  _| \___| _|  \___/ _|  _| \__,_| 
+                                                                                      
+  ▄▄▄▄               ▄▄  ▄▄▄      ▄▄▄       ▄▄                                        
+▄██▀▀██▄             ██  ████▄  ▄████       ██                                        
+███  ███ ██ ██ ▄█▀█▄ ██  ███▀████▀███  ▀▀█▄ ██ ███▄███▄ ▄████ ████▄ ▄███▄ ████▄  ▀▀█▄ 
+███▀▀███  ███  ██▄█▀ ██  ███  ▀▀  ███ ▄█▀██ ██ ██ ██ ██ ██    ██ ▀▀ ██ ██ ██ ██ ▄█▀██ 
+███  ███ ██ ██ ▀█▄▄▄ ██  ███      ███ ▀█▄██ ██ ██ ██ ██ ▀████ ██    ▀███▀ ██ ██ ▀█▄██ 
+                                                                                      
+                                                                                      
                                                                                          
     </pre>
     </body>
 </html>                                                                                                                                                   
 
-I am a **3rd year PhD student** in Economics at [Gothenburg University](https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona).
+I am a **4th year PhD student** in Economics at [Gothenburg University](https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona).
 
-My research area is **labor economics** and my supervisors are [**Johan Stennek**](https://stennek.se/Home) and [**Andreas Dzemski**](https://adzemski.github.io/).
+My research area is **labor economics** where I focus on the the labor market effects of competition and wage setting. My supervisors are [**Johan Stennek**](https://stennek.se/Home) and [**Andreas Dzemski**](https://adzemski.github.io/).
+
+I will be on a research visit to Central European University in Vienna in the spring of 2026.
 
 
 **Work in progress**
