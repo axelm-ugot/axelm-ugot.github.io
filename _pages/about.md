@@ -11,7 +11,7 @@ redirect_from:
         <title>Example</title>
         <style>
 pre{
-padding:0px;
+padding:0.2px;
 margin:1px;
 }
 </style>
@@ -33,11 +33,10 @@ In the spring of 2026 I will be on a research visit to Central European Universi
 
 
 **Work in progress**
-
+<p>
 *Competition in the Labor Market*
-
 with [Theodor Friederiszick](https://sites.google.com/view/theodorfriederiszick) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
-
+</p>
 
 
 
