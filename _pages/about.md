@@ -11,7 +11,7 @@ redirect_from:
         <title>Example</title>
         <style>
 pre{
-padding:1px;
+padding:0px;
 margin:1px;
 }
 </style>
