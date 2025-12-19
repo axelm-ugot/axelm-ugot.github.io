@@ -33,10 +33,9 @@ In the spring of 2026 I will be on a research visit to Central European Universi
 
 
 **Work in progress**
-<p>
-*Competition in the Labor Market*
-with [Theodor Friederiszick](https://sites.google.com/view/theodorfriederiszick) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
-</p>
+
+*Competition in the Labor Market* with [Theodor Friederiszick](https://sites.google.com/view/theodorfriederiszick) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+
 
 
 
