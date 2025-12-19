@@ -13,8 +13,6 @@ redirect_from:
 pre{
 padding:0px;
 margin:0px;
-line-height:12px;
-font-size:14px
 }
 </style>
     </head>
