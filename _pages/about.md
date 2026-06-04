@@ -37,6 +37,9 @@ I will be on the job market in the 2026/2027 academic year.
 Markdowns Across Occupation, Gender, Education and Migration Background: Labor Market Power in Swedish Manufacturing<br>
 with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
+Labor Market Competition and Job Loss<br>
+with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+
 Competition in the Labor Market: Evidence from Swedish Pharmacies<br>
 with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
