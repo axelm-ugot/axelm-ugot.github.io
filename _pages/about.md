@@ -29,12 +29,16 @@ I am a **4th year PhD student** in Economics at [Gothenburg University](https://
 
 My research area is **labor economics** where I focus on the the labor market effects of competition. My supervisors are [Johan Stennek](https://stennek.se/Home) and [Andreas Dzemski](https://adzemski.github.io/).
 
-In the spring of 2026 I will be on a research visit to Central European University in Vienna where I will visit [Andrea Weber](https://sites.google.com/site/andreaweberkirchweger/).
+I will be on the job market in the 2026/2027 academic year.
 
 
-**Work in progress**
+**Work in Progress:**
 
-*Competition in the Labor Market* with [Theodor Friederiszick](https://sites.google.com/view/theodorfriederiszick) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+Markdowns Across Occupation, Gender, Education and Migration Background: Labor Market Power in Swedish Manufacturing<br>
+with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+
+Competition in the Labor Market: Evidence from Swedish Pharmacies<br>
+with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
 
 
