@@ -17,6 +17,7 @@ main:
     
   - title: "CV"
     url: /files/CV_Axel_Malmcrona_.pdf
+    target: "_blank"
     
 #  - title: "Guide"
 #    url: /markdown/
