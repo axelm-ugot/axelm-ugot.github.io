@@ -27,7 +27,7 @@ margin:0.2px;
 
 I am a **5th year PhD student** in Economics at [Gothenburg University](https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona).
 
-My research is in **labor economics**, where I study how competition affects labor-market outcomes. My supervisors are [Johan Stennek](https://stennek.se/Home) and [Andreas Dzemski](https://adzemski.github.io/).
+My research is in **the intersection between Industrial Organization and Labor Economics**, where I study how competition affects labor-market outcomes. My supervisors are [Johan Stennek](https://stennek.se/Home) and [Andreas Dzemski](https://adzemski.github.io/).
 
 **Work in Progress:**
 
