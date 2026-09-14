@@ -31,10 +31,10 @@ My research is in the intersection between **Industrial Organization** and **Lab
 
 **Work in Progress:**
 
-Markdowns Across Occupation, Gender, Education and Migration Background: Labor Market Power in Swedish Manufacturing<br>
+Monopsony in the Swedish Labor Market<br>
 with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
-Labor Market Competition and Job Loss<br>
+The Job Diversion Matrix: How Workers’ Alternatives Determine the Harm from Layoffs and Mergers<br>
 with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
 Competition in the Labor Market: Evidence from Swedish Pharmacies<br>
