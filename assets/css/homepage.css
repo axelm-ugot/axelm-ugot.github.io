@@ -143,7 +143,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .research-paper {
  border: 1px solid #aebbb5;
  border-radius: 0;
- background: #ffffff;
+ background: #f0efeb;
  margin: 0;
  padding: 1.15em 1.25em;
  box-shadow: none;
@@ -179,11 +179,11 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .research-paper {margin-bottom: .3em;}
 .page__content .research-paper:nth-of-type(2) {background: transparent;}
 .page__content .research-paper:nth-of-type(1),
-.page__content .research-paper:nth-of-type(3) {background: #424946; color: #fff;}
+.page__content .research-paper:nth-of-type(3) {background: #424946; color: #f0efeb;}
 .page__content .research-paper:nth-of-type(odd) h3,
 .page__content .research-paper:nth-of-type(odd) .paper-authors,
 .page__content .research-paper:nth-of-type(odd) .paper-authors a,
-.page__content .research-paper:nth-of-type(odd) .shared-paper-action {color: #fff;}
+.page__content .research-paper:nth-of-type(odd) .shared-paper-action {color: #f0efeb;}
 .page__content .linked-paper:nth-of-type(odd) .shared-paper-link:hover h3,
 .page__content .linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible h3,
 .page__content .linked-paper:nth-of-type(odd) .shared-paper-link:hover .shared-paper-action,
@@ -267,12 +267,12 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 /* Public speaking and events. */
 .events-section {margin-top: 2.5em;}
-.page__content .event-entry {padding: 1.15em 1.25em; background: #424946; color: #fff;}
+.page__content .event-entry {padding: 1.15em 1.25em; background: #424946; color: #f0efeb;}
 .page__content .event-entry h3 {margin: .5em 0 .8em; font-size: 1.04em; line-height: 1.45;}
 .page__content .event-entry .paper-subtitle {font-size: .9em; font-weight: 400; margin-top: .18em;}
 .page__content .event-entry p {font-size: .84em; line-height: 1.6; margin: 0 0 .9em;}
 .page__content .event-entry .event-date {font-family: monospace; font-size: .8em;}
-.page__content .event-link {color: #fff; font-size: .8em; font-weight: 600; text-decoration: none;}
+.page__content .event-link {color: #f0efeb; font-size: .8em; font-weight: 600; text-decoration: none;}
 .page__content .event-link:hover, .page__content .event-link:focus-visible {color: #ffd600; text-decoration: underline; text-underline-offset: 4px;}
 
 /* Full event-card link and coordinated highlighting. */
@@ -306,7 +306,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 
 .page__content .events-section .event-entry:nth-of-type(even) {
- background: #fff;
+ background: #f0efeb;
  color: #273c38;
 }
 .page__content .events-section .event-entry:nth-of-type(even) .event-link {color: #273c38;}
@@ -442,3 +442,20 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .cv-heading a:hover,
 .page__content .cv-heading a:focus-visible {color: #ffd600; text-decoration: none;}
 #cv {scroll-margin-top: 110px;}
+
+/* Warm gray surfaces and inverted yellow Upcoming cards. */
+html, body,
+.masthead, .masthead__inner-wrap, .greedy-nav, .greedy-nav button {background-color: #f0efeb;}
+.page__content .events-section .research-ascii {color: #ffd600;}
+.page__content .events-section .event-entry {background: #ffd600; color: #f0efeb;}
+.page__content .events-section .event-entry:nth-of-type(even) {background: #f0efeb; color: #ffd600;}
+.page__content .events-section .event-entry h3,
+.page__content .events-section .event-entry .event-link,
+.page__content .events-section .event-entry .organiser-link,
+.page__content .events-section .event-entry:nth-of-type(even) .event-link {color: inherit;}
+.page__content .events-section .event-entry:nth-of-type(n):hover:not(:has(a:not(.event-link):hover)) h3,
+.page__content .events-section .event-entry:nth-of-type(n):hover:not(:has(a:not(.event-link):hover)) .event-link,
+.page__content .events-section .event-entry:nth-of-type(n):has(.event-link:focus-visible) h3,
+.page__content .events-section .event-entry:nth-of-type(n):has(.event-link:focus-visible) .event-link,
+.page__content .events-section .event-entry .organiser-link:hover,
+.page__content .events-section .event-entry .organiser-link:focus-visible {color: #303532;}
