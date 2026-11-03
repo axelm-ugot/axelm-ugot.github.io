@@ -414,3 +414,25 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  .page__content .linked-paper {grid-template-columns: minmax(0, 1fr);}
  .page__content .linked-paper .shared-paper-action {grid-column: 1; grid-row: 3; margin-top: .3em;}
 }
+
+/* Align desktop navigation and content to the enlarged portrait column. */
+@media (min-width: 1200px) {
+ :root {--portrait-width: 280px; --column-offset: 320px;}
+ #main .sidebar {width: var(--portrait-width); max-width: var(--portrait-width);}
+ .author__avatar {width: var(--portrait-width); max-width: 100%;}
+ #main > .page {
+  float: none;
+  width: calc(100% - var(--column-offset));
+  margin-left: var(--column-offset);
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+ }
+ .masthead .greedy-nav .visible-links > .masthead__menu-item--lg {
+  width: var(--column-offset);
+  min-width: var(--column-offset);
+  padding-right: 0;
+ }
+ .masthead .greedy-nav .visible-links > li > a {margin-left: 0; margin-right: 2rem;}
+ .masthead .greedy-nav .visible-links > li:last-child > a {margin-right: 0;}
+}
