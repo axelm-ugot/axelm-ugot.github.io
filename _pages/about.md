@@ -33,7 +33,7 @@ homepage_styles: true
 </div>
 </section>
 
-<h2 class="research-heading research-ascii" aria-label="Work in Progress"><span aria-hidden="true">░█░█░█▀█░█▀▄░█░█░░░░▀█▀░█▀█░░░░█▀█░█▀▄░█▀█░█▀▀░█▀▄░█▀▀░█▀▀░█▀▀<br>░█▄█░█░█░█▀▄░█▀▄░░░░░█░░█░█░░░░█▀▀░█▀▄░█░█░█░█░█▀▄░█▀▀░▀▀█░▀▀█<br>░▀░▀░▀▀▀░▀░▀░▀░▀░░░░▀▀▀░▀░▀░░░░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀</span></h2>
+<h2 id="work-in-progress" class="research-heading research-ascii" aria-label="Work in Progress"><span aria-hidden="true">░█░█░█▀█░█▀▄░█░█░░░░▀█▀░█▀█░░░░█▀█░█▀▄░█▀█░█▀▀░█▀▄░█▀▀░█▀▀░█▀▀<br>░█▄█░█░█░█▀▄░█▀▄░░░░░█░░█░█░░░░█▀▀░█▀▄░█░█░█░█░█▀▄░█▀▀░▀▀█░▀▀█<br>░▀░▀░▀▀▀░▀░▀░▀░▀░░░░▀▀▀░▀░▀░░░░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀</span></h2>
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://axelm-ugot.github.io/files/production_markdowns.pdf"><h3><span class="paper-main-title">Monopsony and Wage Inequality in Sweden</span><span class="paper-subtitle">The Effect of Markdowns on Immigrant and Gender Wage Gaps</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
