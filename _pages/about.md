@@ -37,7 +37,7 @@ with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson
 The Job Diversion Matrix: How Workers’ Alternatives Determine the Harm from Layoffs and Mergers<br>
 with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
-How Do Firms Exercise Labor Market Power? Evidence from Swedish Pharmacies<br>
+[How Do Firms Exercise Labor Market Power? Evidence from Swedish Pharmacies](https://nelsonsunuwar.github.io/jmp_sunuwar.pdf)<br>
 with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
 
 
