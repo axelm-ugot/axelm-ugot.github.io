@@ -218,15 +218,15 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  padding: .25em .35em;
  margin: -.25em -.35em;
 }
-.page__content .linked-paper:hover .shared-paper-link h3,
-.page__content .linked-paper:hover .shared-paper-action {
+.page__content .linked-paper:hover:not(:has(.paper-authors a:hover)) .shared-paper-link h3,
+.page__content .linked-paper:hover:not(:has(.paper-authors a:hover)) .shared-paper-action {
  color: #006b65;
  text-decoration: underline;
  text-decoration-thickness: 2px;
  text-underline-offset: 4px;
 }
-.page__content .linked-paper:nth-of-type(odd):hover .shared-paper-link h3,
-.page__content .linked-paper:nth-of-type(odd):hover .shared-paper-action {color: #c2f0de;}
+.page__content .linked-paper:nth-of-type(odd):hover:not(:has(.paper-authors a:hover)) .shared-paper-link h3,
+.page__content .linked-paper:nth-of-type(odd):hover:not(:has(.paper-authors a:hover)) .shared-paper-action {color: #c2f0de;}
 
 /* Give the portrait more presence without crowding the main column. */
 .author__avatar {width: 80px;}
