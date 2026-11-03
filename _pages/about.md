@@ -41,4 +41,6 @@ homepage_styles: true
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://nelsonsunuwar.github.io/jmp_sunuwar.pdf"><h3><span class="paper-main-title">How Do Firms Exercise Labor Market Power?</span><span class="paper-subtitle">Evidence from Swedish Pharmacies</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
+<h2 id="cv" class="research-heading research-ascii cv-heading"><a href="/files/CV_Axel_Malmcrona_.pdf" target="_blank" rel="noopener noreferrer" aria-label="CV (PDF, opens in a new tab)"><span aria-hidden="true">░█▀▀░█░█<br>░█░░░█░█<br>░▀▀▀░░▀░</span></a></h2>
+
 <p><small> © 2024 Axel Malmcrona. Powered by Jekyll &amp; AcademicPages, a fork of Minimal Mistakes.</small></p>
