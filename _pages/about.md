@@ -16,7 +16,7 @@ homepage_styles: true
 
 <h2 class="research-heading research-ascii" aria-label="Research"><span aria-hidden="true">░█▀▄░█▀▀░█▀▀░█▀▀░█▀█░█▀▄░█▀▀░█░█<br>░█▀▄░█▀▀░▀▀█░█▀▀░█▀█░█▀▄░█░░░█▀█<br>░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀</span></h2>
 
-<article class="research-paper"><h3>Monopsony in the Swedish Labor Market</h3><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
+<article class="research-paper linked-paper"><a class="shared-paper-link" href="https://axelm-ugot.github.io/files/production_markdowns.pdf"><h3><span class="paper-main-title">Monopsony and Wage Inequality in Sweden</span><span class="paper-subtitle">The Effect of Markdowns on Immigrant and Gender Wage Gaps</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" href="https://theodorfriederiszick.github.io/jmp_friederiszick.pdf"><h3><span class="paper-main-title">The Job Diversion Matrix</span><span class="paper-subtitle">How Workers’ Alternatives Determine the Harm from Layoffs and Mergers</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
