@@ -234,3 +234,5 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 @media (min-width: 1200px) {
  .author__avatar {width: 220px; max-width: 100%;}
 }
+
+.page__content .linked-paper {cursor: pointer;}
