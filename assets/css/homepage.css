@@ -201,3 +201,29 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  line-height: 1.45;
  margin-top: .18em;
 }
+
+/* Stretch the paper link over its card, with author links above it. */
+.page__content .linked-paper {position: relative; isolation: isolate;}
+.page__content .linked-paper .shared-paper-link::after {
+ content: "";
+ position: absolute;
+ inset: 0;
+ z-index: 1;
+ cursor: pointer;
+}
+.page__content .linked-paper .paper-authors a {
+ position: relative;
+ z-index: 2;
+ display: inline-block;
+ padding: .25em .35em;
+ margin: -.25em -.35em;
+}
+.page__content .linked-paper:hover .shared-paper-link h3,
+.page__content .linked-paper:hover .shared-paper-action {
+ color: #006b65;
+ text-decoration: underline;
+ text-decoration-thickness: 2px;
+ text-underline-offset: 4px;
+}
+.page__content .linked-paper:nth-of-type(odd):hover .shared-paper-link h3,
+.page__content .linked-paper:nth-of-type(odd):hover .shared-paper-action {color: #c2f0de;}
