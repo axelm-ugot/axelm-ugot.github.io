@@ -8,17 +8,13 @@ redirect_from:
 homepage_styles: true
 ---
 
-<h1 class="name-ascii" aria-label="Axel Malmcrona"><span aria-hidden="true">░█▀█░█░█░█▀▀░█░░░░░█▄█░█▀█░█░░░█▄█░█▀▀░█▀▄░█▀█░█▀█░█▀█
-░█▀█░▄▀▄░█▀▀░█░░░░░█░█░█▀█░█░░░█░█░█░░░█▀▄░█░█░█░█░█▀█
-░▀░▀░▀░▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀░▀</span></h1>
+<h1 class="name-ascii" aria-label="Axel Malmcrona"><span aria-hidden="true">░█▀█░█░█░█▀▀░█░░░░░█▄█░█▀█░█░░░█▄█░█▀▀░█▀▄░█▀█░█▀█░█▀█<br>░█▀█░▄▀▄░█▀▀░█░░░░░█░█░█▀█░█░░░█░█░█░░░█▀▄░█░█░█░█░█▀█<br>░▀░▀░▀░▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀░▀</span></h1>
 
 <p>I am a <strong>5th year PhD student</strong> in Economics at <a href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona">Gothenburg University</a>.</p>
 
 <p>My research is in the intersection between <strong>Industrial Organization</strong> and <strong>Labor Economics</strong>, where I study how competition affects labor-market outcomes. My supervisors are <a class="supervisor-link" href="https://stennek.se/Home">Johan Stennek</a> and <a class="supervisor-link" href="https://adzemski.github.io/">Andreas Dzemski</a>.</p>
 
-<h2 class="research-heading research-ascii" aria-label="Research"><span aria-hidden="true">░█▀▄░█▀▀░█▀▀░█▀▀░█▀█░█▀▄░█▀▀░█░█
-░█▀▄░█▀▀░▀▀█░█▀▀░█▀█░█▀▄░█░░░█▀█
-░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀</span></h2>
+<h2 class="research-heading research-ascii" aria-label="Research"><span aria-hidden="true">░█▀▄░█▀▀░█▀▀░█▀▀░█▀█░█▀▄░█▀▀░█░█<br>░█▀▄░█▀▀░▀▀█░█▀▀░█▀█░█▀▄░█░░░█▀█<br>░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀</span></h2>
 
 <article class="research-paper"><h3>Monopsony in the Swedish Labor Market</h3><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
