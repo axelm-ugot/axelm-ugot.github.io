@@ -227,3 +227,10 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 }
 .page__content .linked-paper:nth-of-type(odd):hover .shared-paper-link h3,
 .page__content .linked-paper:nth-of-type(odd):hover .shared-paper-action {color: #c2f0de;}
+
+/* Give the portrait more presence without crowding the main column. */
+.author__avatar {width: 80px;}
+.author__avatar img {width: 100%; max-width: none; height: auto;}
+@media (min-width: 1200px) {
+ .author__avatar {width: 220px; max-width: 100%;}
+}
