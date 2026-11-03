@@ -14,6 +14,17 @@ homepage_styles: true
 
 <p>My research is in the intersection between <strong>Industrial Organization</strong> and <strong>Labor Economics</strong>, where I study how competition affects labor-market outcomes. My supervisors are <a class="supervisor-link" href="https://stennek.se/Home">Johan Stennek</a> and <a class="supervisor-link" href="https://adzemski.github.io/">Andreas Dzemski</a>.</p>
 
+<section id="events" class="events-section" aria-label="Latest">
+<h2 class="research-heading research-ascii" aria-label="Latest"><span aria-hidden="true">░█░░░█▀█░▀█▀░█▀▀░█▀▀░▀█▀<br>░█░░░█▀█░░█░░█▀▀░▀▀█░░█░<br>░▀▀▀░▀░▀░░▀░░▀▀▀░▀▀▀░░▀░</span></h2>
+<div class="event-entry">
+<p class="event-date"><time datetime="2026-11-12">12 November 2026</time> · Stockholm</p>
+<h3>Technology and Power<span class="paper-subtitle">Challenges for Modern Labour Markets</span></h3>
+
+<p class="event-details">Zätasalen, ABF-huset, Sveavägen 41. Organised by Arenagruppen and Facken inom industrins produktivitetskommission.</p>
+<a class="event-link" href="https://arenagruppen.confetti.events/konferens-om-loner-sysselsattning-och-makt/" target="_blank" rel="noopener noreferrer">Programme and registration</a>
+</div>
+</section>
+
 <h2 class="research-heading research-ascii" aria-label="Work in Progress"><span aria-hidden="true">░█░█░█▀█░█▀▄░█░█░░░░▀█▀░█▀█░░░░█▀█░█▀▄░█▀█░█▀▀░█▀▄░█▀▀░█▀▀░█▀▀<br>░█▄█░█░█░█▀▄░█▀▄░░░░░█░░█░█░░░░█▀▀░█▀▄░█░█░█░█░█▀▄░█▀▀░▀▀█░▀▀█<br>░▀░▀░▀▀▀░▀░▀░▀░▀░░░░▀▀▀░▀░▀░░░░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀</span></h2>
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://axelm-ugot.github.io/files/production_markdowns.pdf"><h3><span class="paper-main-title">Monopsony and Wage Inequality in Sweden</span><span class="paper-subtitle">The Effect of Markdowns on Immigrant and Gender Wage Gaps</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
@@ -21,16 +32,5 @@ homepage_styles: true
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://theodorfriederiszick.github.io/jmp_friederiszick.pdf"><h3><span class="paper-main-title">The Job Diversion Matrix</span><span class="paper-subtitle">How Workers’ Alternatives Determine the Harm from Layoffs and Mergers</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://nelsonsunuwar.github.io/jmp_sunuwar.pdf"><h3><span class="paper-main-title">How Do Firms Exercise Labor Market Power?</span><span class="paper-subtitle">Evidence from Swedish Pharmacies</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
-
-<section class="events-section" aria-label="Events">
-<h2 class="research-heading research-ascii" aria-label="Events"><span aria-hidden="true">░█▀▀░█░█░█▀▀░█▀█░▀█▀░█▀▀<br>░█▀▀░█░█░█▀▀░█░█░░█░░▀▀█<br>░▀▀▀░░▀░░▀▀▀░▀░▀░░▀░░▀▀▀</span></h2>
-<div class="event-entry">
-<p class="event-date"><time datetime="2026-11-12">12 November 2026</time> · Stockholm</p>
-<h3>Technology and Power<span class="paper-subtitle">Challenges for Modern Labour Markets</span></h3>
-<p>I will join the academic discussion at 09:45 with Jakob Roland Munch and Erling Barth, moderated by Daniel Lind, following the keynote on employer market power, wages and employment.</p>
-<p class="event-details">Zätasalen, ABF-huset, Sveavägen 41. Organised by Arenagruppen and Facken inom industrins produktivitetskommission.</p>
-<a class="event-link" href="https://arenagruppen.confetti.events/konferens-om-loner-sysselsattning-och-makt/" target="_blank" rel="noopener noreferrer">Programme and registration</a>
-</div>
-</section>
 
 <p><small> © 2024 Axel Malmcrona. Powered by Jekyll &amp; AcademicPages, a fork of Minimal Mistakes.</small></p>

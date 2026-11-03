@@ -274,3 +274,18 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .event-entry .event-date {font-family: monospace; font-size: .8em;}
 .page__content .event-link {color: #fff; font-size: .8em; font-weight: 600; text-decoration: none;}
 .page__content .event-link:hover, .page__content .event-link:focus-visible {color: #ffd600; text-decoration: underline; text-underline-offset: 4px;}
+
+/* Full event-card link and coordinated highlighting. */
+
+.page__content .event-entry {position: relative; isolation: isolate; cursor: pointer;}
+.page__content .event-link::after {content: ""; position: absolute; inset: 0; z-index: 1;}
+.page__content .event-entry:hover h3,
+.page__content .event-entry:hover .event-link,
+.page__content .event-entry:has(.event-link:focus-visible) h3,
+.page__content .event-entry:has(.event-link:focus-visible) .event-link {
+ color: #ffd600;
+ text-decoration: underline;
+ text-decoration-thickness: 2px;
+ text-underline-offset: 4px;
+ transition: none;
+}
