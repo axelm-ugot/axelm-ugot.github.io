@@ -264,3 +264,13 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .masthead .masthead__menu-item--lg a:hover,
 .masthead .masthead__menu-item--lg a:focus-visible {text-decoration: none;}
 .masthead .masthead__menu-item--lg a::before {display: none;}
+
+/* Public speaking and events. */
+.events-section {margin-top: 2.5em;}
+.page__content .event-entry {padding: 1.15em 1.25em; background: #424946; color: #fff;}
+.page__content .event-entry h3 {margin: .5em 0 .8em; font-size: 1.04em; line-height: 1.45;}
+.page__content .event-entry .paper-subtitle {font-size: .9em; font-weight: 400; margin-top: .18em;}
+.page__content .event-entry p {font-size: .84em; line-height: 1.6; margin: 0 0 .9em;}
+.page__content .event-entry .event-date {font-family: monospace; font-size: .8em;}
+.page__content .event-link {color: #fff; font-size: .8em; font-weight: 600; text-decoration: none;}
+.page__content .event-link:hover, .page__content .event-link:focus-visible {color: #ffd600; text-decoration: underline; text-underline-offset: 4px;}
