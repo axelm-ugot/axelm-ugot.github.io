@@ -17,7 +17,7 @@
 
 .page__content .research-paper h3 a {text-decoration: underline; text-decoration-color: #a9bec8; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
 .page__content .research-paper h3 a:hover,
-.page__content .research-paper h3 a:focus-visible {color: #806000; text-decoration-color: currentColor; text-decoration-thickness: 2px;}
+.page__content .research-paper h3 a:focus-visible {color: #b8860b; text-decoration-color: currentColor; text-decoration-thickness: 2px;}
 .paper-link-cue {display: inline-flex; align-items: center; gap: .35em; margin-left: .7em; padding: .18em .55em; border: 1px solid #c5d8d7; border-radius: 5px; background: #f0f7f5; color: #28615d; font-size: .65em; font-weight: 600; line-height: 1.5; white-space: nowrap; vertical-align: .12em;}
 .paper-link-cue span {display:inline-block; transition: transform .18s ease;}
 a:hover .paper-link-cue span {transform:translate(1px,-1px);}
@@ -26,7 +26,7 @@ a:hover .paper-link-cue span {transform:translate(1px,-1px);}
 
 .page__content a.supervisor-link {color: #234e65; text-decoration: underline; text-decoration-color: #a9bec8; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
 .page__content a.supervisor-link:hover,
-.page__content a.supervisor-link:focus-visible {color: #806000; text-decoration-color: currentColor; text-decoration-thickness: 2px;}
+.page__content a.supervisor-link:focus-visible {color: #b8860b; text-decoration-color: currentColor; text-decoration-thickness: 2px;}
 .external-link-arrow {display: inline-block; margin-left: .2em; font-size: .75em; text-decoration: none; transition: transform .18s ease;}
 a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 @media(prefers-reduced-motion:reduce){.page__content a.supervisor-link,.external-link-arrow{transition:none}}
@@ -34,11 +34,11 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 .page__content .research-paper h3 a {color: #273c38; text-decoration: none;}
 .page__content .research-paper h3 a:hover,
-.page__content .research-paper h3 a:focus-visible {color: #806000; text-decoration: underline; text-underline-offset: 4px;}
+.page__content .research-paper h3 a:focus-visible {color: #b8860b; text-decoration: underline; text-underline-offset: 4px;}
 .page__content .paper-download {margin: .55em 0 0; font-size: .8em; line-height: 1.5;}
 .page__content .paper-download a {color: #234e65; font-weight: 600; text-decoration: underline; text-decoration-color: #a9bec8; text-underline-offset: 3px;}
 .page__content .paper-download a:hover,
-.page__content .paper-download a:focus-visible {color: #806000; text-decoration-color: currentColor;}
+.page__content .paper-download a:focus-visible {color: #b8860b; text-decoration-color: currentColor;}
 
 
 .linked-paper {display: grid; grid-template-columns: minmax(0, 1fr);}
@@ -46,8 +46,8 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .linked-paper .shared-paper-link h3 {grid-row: 1; transition: color .18s ease;}
 .linked-paper .paper-authors {grid-row: 2;}
 .shared-paper-action {grid-row: 3; justify-self: start; margin-top: .55em; font-size: .8em; font-weight: 600; color: #24736b; text-decoration: none; text-underline-offset: 3px;}
-.shared-paper-link:hover h3, .shared-paper-link:focus-visible h3 {color: #806000;}
-.shared-paper-link:hover .shared-paper-action, .shared-paper-link:focus-visible .shared-paper-action {color: #806000; text-decoration-thickness: 2px;}
+.shared-paper-link:hover h3, .shared-paper-link:focus-visible h3 {color: #b8860b;}
+.shared-paper-link:hover .shared-paper-action, .shared-paper-link:focus-visible .shared-paper-action {color: #b8860b; text-decoration-thickness: 2px;}
 .shared-paper-link:focus-visible h3, .shared-paper-link:focus-visible .shared-paper-action {outline: 2px solid #24736b; outline-offset: 4px;}
 
 
@@ -55,7 +55,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .linked-paper .shared-paper-link:focus-visible h3,
 .page__content .linked-paper .shared-paper-link:hover .shared-paper-action,
 .page__content .linked-paper .shared-paper-link:focus-visible .shared-paper-action {
- color: #806000;
+ color: #b8860b;
  text-decoration-line: underline;
  text-decoration-color: currentColor;
  text-decoration-thickness: 2px;
@@ -67,7 +67,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content:has(.coauthor-nelson:focus-visible) .coauthor-nelson,
 .page__content:has(.coauthor-theo:hover) .coauthor-theo,
 .page__content:has(.coauthor-theo:focus-visible) .coauthor-theo {
- color: #806000;
+ color: #b8860b;
  text-decoration: underline;
  text-decoration-thickness: 1px;
  text-underline-offset: 3px;
@@ -187,11 +187,11 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .linked-paper:nth-of-type(odd) .shared-paper-link:hover h3,
 .page__content .linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible h3,
 .page__content .linked-paper:nth-of-type(odd) .shared-paper-link:hover .shared-paper-action,
-.page__content .linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible .shared-paper-action {color: #ffe082;}
+.page__content .linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible .shared-paper-action {color: #b8860b;}
 .page__content:has(.coauthor-nelson:hover) .research-paper:nth-of-type(odd) .coauthor-nelson,
 .page__content:has(.coauthor-nelson:focus-visible) .research-paper:nth-of-type(odd) .coauthor-nelson,
 .page__content:has(.coauthor-theo:hover) .research-paper:nth-of-type(odd) .coauthor-theo,
-.page__content:has(.coauthor-theo:focus-visible) .research-paper:nth-of-type(odd) .coauthor-theo {color: #ffe082;}
+.page__content:has(.coauthor-theo:focus-visible) .research-paper:nth-of-type(odd) .coauthor-theo {color: #b8860b;}
 
 
 .paper-main-title, .paper-subtitle {display: block;}
@@ -220,13 +220,13 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 }
 .page__content .linked-paper:hover:not(:has(.paper-authors a:hover)) .shared-paper-link h3,
 .page__content .linked-paper:hover:not(:has(.paper-authors a:hover)) .shared-paper-action {
- color: #806000;
+ color: #b8860b;
  text-decoration: underline;
  text-decoration-thickness: 2px;
  text-underline-offset: 4px;
 }
 .page__content .linked-paper:nth-of-type(odd):hover:not(:has(.paper-authors a:hover)) .shared-paper-link h3,
-.page__content .linked-paper:nth-of-type(odd):hover:not(:has(.paper-authors a:hover)) .shared-paper-action {color: #ffe082;}
+.page__content .linked-paper:nth-of-type(odd):hover:not(:has(.paper-authors a:hover)) .shared-paper-action {color: #b8860b;}
 
 /* Give the portrait more presence without crowding the main column. */
 .author__avatar {width: 80px;}
@@ -242,12 +242,12 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .masthead a:hover, .masthead a:focus-visible,
 .sidebar a:hover, .sidebar a:focus-visible,
 .page__content > p a:hover, .page__content > p a:focus-visible {
- color: #806000;
+ color: #b8860b;
  text-decoration: underline;
  text-decoration-color: currentColor;
  text-underline-offset: 4px;
 }
 .shared-paper-link:focus-visible h3,
-.shared-paper-link:focus-visible .shared-paper-action {outline-color: #806000;}
+.shared-paper-link:focus-visible .shared-paper-action {outline-color: #b8860b;}
 .linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible h3,
-.linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible .shared-paper-action {outline-color: #ffe082;}
+.linked-paper:nth-of-type(odd) .shared-paper-link:focus-visible .shared-paper-action {outline-color: #b8860b;}
