@@ -24,10 +24,10 @@ homepage_styles: true
 <p class="event-details">Zätasalen, ABF-huset, Sveavägen 41. Organised by <a class="organiser-link" href="https://arenagruppen.se/" target="_blank" rel="noopener noreferrer">Arenagruppen</a> and <a class="organiser-link" href="https://arenagruppen.se/produktivitetskommissionen/" target="_blank" rel="noopener noreferrer">Facken inom industrins produktivitetskommission</a>.</p>
 <a class="event-link" href="https://arenagruppen.confetti.events/konferens-om-loner-sysselsattning-och-makt/" target="_blank" rel="noopener noreferrer">Programme and registration</a>
 </div>
-<div class="event-entry" style="margin-top: .6em;">
+<div class="event-entry">
 <p class="event-date"><time datetime="2026-12-09">9 December 2026</time> · Stockholm</p>
 <h3>SNS Job Market 2026<span class="paper-subtitle">Meet Tomorrow’s Leading Economists</span></h3>
-<p>I will present my job market paper and meet prospective employers. Interested in my research or recruiting an economist? <a class="organiser-link" href="mailto:axel.malmcrona@economics.gu.se">Get in touch</a>.</p>
+<p>I will attend SNS Job Market to meet prospective employers. Interested in my research or recruiting an economist? <a class="organiser-link" href="mailto:axel.malmcrona@economics.gu.se">Get in touch</a>.</p>
 <p class="event-details">SNS, Jakobsbergsgatan 18, Stockholm.</p>
 <a class="event-link" href="https://www.sns.se/en/events/sns-job-market-2026-meet-tomorrows-leading-economists" target="_blank" rel="noopener noreferrer">Event details</a>
 </div>
