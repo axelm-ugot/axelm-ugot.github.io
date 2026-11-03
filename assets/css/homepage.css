@@ -356,3 +356,9 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 /* Keep section headings clear of the navigation when jumping to them. */
 #events, #work-in-progress {scroll-margin-top: 90px;}
+
+/* Top navigation uses color only, without text or animated bar underlines. */
+.masthead .greedy-nav a,
+.masthead .greedy-nav a:hover,
+.masthead .greedy-nav a:focus-visible {text-decoration: none;}
+.masthead .greedy-nav .visible-links a::before {display: none;}
