@@ -393,3 +393,24 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .sidebar a:hover, .sidebar a:focus-visible,
 .page__content a.supervisor-link:hover, .page__content a.supervisor-link:focus-visible {color: #ffd600;}
 .sidebar a i, .sidebar a svg {color: inherit !important;}
+
+/* Keep the paper action alongside the authors, aligned to the right. */
+.page__content .linked-paper {
+ grid-template-columns: minmax(0, 1fr) auto;
+ column-gap: 1em;
+}
+.page__content .linked-paper .shared-paper-link h3 {grid-column: 1 / -1; grid-row: 1;}
+.page__content .linked-paper .paper-authors {grid-column: 1; grid-row: 2;}
+.page__content .linked-paper .shared-paper-action {
+ grid-column: 2;
+ grid-row: 2;
+ justify-self: end;
+ align-self: end;
+ margin-top: 0;
+ text-align: right;
+ white-space: nowrap;
+}
+@media (max-width: 600px) {
+ .page__content .linked-paper {grid-template-columns: minmax(0, 1fr);}
+ .page__content .linked-paper .shared-paper-action {grid-column: 1; grid-row: 3; margin-top: .3em;}
+}
