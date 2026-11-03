@@ -14,8 +14,8 @@ homepage_styles: true
 
 <p>My research is in the intersection between <strong>Industrial Organization</strong> and <strong>Labor Economics</strong>, where I study how competition affects labor-market outcomes. My supervisors are <a class="supervisor-link" href="https://stennek.se/Home">Johan Stennek</a> and <a class="supervisor-link" href="https://adzemski.github.io/">Andreas Dzemski</a>.</p>
 
-<section id="events" class="events-section" aria-label="Latest">
-<h2 class="research-heading research-ascii" aria-label="Latest"><span aria-hidden="true">░█░░░█▀█░▀█▀░█▀▀░█▀▀░▀█▀<br>░█░░░█▀█░░█░░█▀▀░▀▀█░░█░<br>░▀▀▀░▀░▀░░▀░░▀▀▀░▀▀▀░░▀░</span></h2>
+<section id="events" class="events-section" aria-label="Upcoming">
+<h2 class="research-heading research-ascii" aria-label="Upcoming"><span aria-hidden="true">░█░█░█▀█░█▀▀░█▀█░█▄█░▀█▀░█▀█░█▀▀<br>░█░█░█▀▀░█░░░█░█░█░█░░█░░█░█░█░█<br>░▀▀▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀</span></h2>
 <div class="event-entry">
 <p class="event-date"><time datetime="2026-11-12">12 November 2026</time> · Stockholm</p>
 <h3>Technology and Power<span class="paper-subtitle">Challenges for Modern Labour Markets</span></h3>
