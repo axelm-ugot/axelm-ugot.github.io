@@ -289,3 +289,13 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  text-underline-offset: 4px;
  transition: none;
 }
+
+/* Override the theme's global transitions, including nested text and pseudo-elements. */
+.page__content, .page__content *, .page__content *::before, .page__content *::after,
+.masthead, .masthead *, .masthead *::before, .masthead *::after,
+.sidebar, .sidebar *, .sidebar *::before, .sidebar *::after {
+ -webkit-transition: none !important;
+ transition: none !important;
+ -webkit-animation: none !important;
+ animation: none !important;
+}
