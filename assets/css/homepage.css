@@ -6,25 +6,25 @@
 .page__content .research-heading {font-size: 1.3em; margin: 2em 0 1.3em; padding-bottom: .55em; border-bottom: 1px solid #dbe4e0;}
 .page__content .research-paper {margin: 0 0 1.65em;}
 .page__content .research-paper h3 {font-size: 1.04em; line-height: 1.45; font-weight: 650; margin: 0 0 .35em; color: #273c38;}
-.page__content .research-paper h3 a {color: #234e65; text-decoration: none;}
+.page__content .research-paper h3 a {color: inherit; text-decoration: none;}
 .page__content .research-paper h3 a:hover {text-decoration: underline;}
 .page__content .paper-authors {font-size: .84em; line-height: 1.55; color: #5e6966; margin: 0;}
 .page__content .paper-authors a {color: inherit; text-decoration: none;}
-.page__content .paper-authors a:hover {text-decoration: underline; color: #234e65;}
+.page__content .paper-authors a:hover {text-decoration: underline; color: inherit;}
 .page__content > p:last-child {margin-top: 3em; color: #68736f; font-size: .8em;}
 @media(max-width:600px){.page__content .preview-name{font-size:1.75em}.page__content .research-paper h3{font-size:1em}}
 
 
-.page__content .research-paper h3 a {text-decoration: underline; text-decoration-color: #a9bec8; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
+.page__content .research-paper h3 a {text-decoration: underline; text-decoration-color: currentColor; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
 .page__content .research-paper h3 a:hover,
 .page__content .research-paper h3 a:focus-visible {color: #ffd600; text-decoration-color: currentColor; text-decoration-thickness: 2px;}
-.paper-link-cue {display: inline-flex; align-items: center; gap: .35em; margin-left: .7em; padding: .18em .55em; border: 1px solid #c5d8d7; border-radius: 5px; background: #f0f7f5; color: #28615d; font-size: .65em; font-weight: 600; line-height: 1.5; white-space: nowrap; vertical-align: .12em;}
+.paper-link-cue {display: inline-flex; align-items: center; gap: .35em; margin-left: .7em; padding: .18em .55em; border: 1px solid #c5d8d7; border-radius: 5px; background: #f0f7f5; color: inherit; font-size: .65em; font-weight: 600; line-height: 1.5; white-space: nowrap; vertical-align: .12em;}
 .paper-link-cue span {display:inline-block; transition: transform .18s ease;}
 a:hover .paper-link-cue span {transform:translate(1px,-1px);}
 @media(prefers-reduced-motion:reduce){.paper-link-cue span,.page__content .research-paper h3 a{transition:none}}
 
 
-.page__content a.supervisor-link {color: #234e65; text-decoration: underline; text-decoration-color: #a9bec8; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
+.page__content a.supervisor-link {color: inherit; text-decoration: underline; text-decoration-color: currentColor; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
 .page__content a.supervisor-link:hover,
 .page__content a.supervisor-link:focus-visible {color: #ffd600; text-decoration-color: currentColor; text-decoration-thickness: 2px;}
 .external-link-arrow {display: inline-block; margin-left: .2em; font-size: .75em; text-decoration: none; transition: transform .18s ease;}
@@ -36,7 +36,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .research-paper h3 a:hover,
 .page__content .research-paper h3 a:focus-visible {color: #ffd600; text-decoration: underline; text-underline-offset: 4px;}
 .page__content .paper-download {margin: .55em 0 0; font-size: .8em; line-height: 1.5;}
-.page__content .paper-download a {color: #234e65; font-weight: 600; text-decoration: underline; text-decoration-color: #a9bec8; text-underline-offset: 3px;}
+.page__content .paper-download a {color: inherit; font-weight: 600; text-decoration: underline; text-decoration-color: currentColor; text-underline-offset: 3px;}
 .page__content .paper-download a:hover,
 .page__content .paper-download a:focus-visible {color: #ffd600; text-decoration-color: currentColor;}
 
@@ -48,7 +48,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .shared-paper-action {grid-row: 3; justify-self: start; margin-top: .55em; font-size: .8em; font-weight: 600; color: #273c38; text-decoration: none; text-underline-offset: 3px;}
 .shared-paper-link:hover h3, .shared-paper-link:focus-visible h3 {color: #ffd600;}
 .shared-paper-link:hover .shared-paper-action, .shared-paper-link:focus-visible .shared-paper-action {color: #ffd600; text-decoration-thickness: 2px;}
-.shared-paper-link:focus-visible h3, .shared-paper-link:focus-visible .shared-paper-action {outline: 2px solid #24736b; outline-offset: 4px;}
+.shared-paper-link:focus-visible h3, .shared-paper-link:focus-visible .shared-paper-action {outline: 2px solid #ffd600; outline-offset: 4px;}
 
 
 .page__content .linked-paper .shared-paper-link:hover h3,
@@ -385,3 +385,11 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content > p a[href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona"] {color: inherit;}
 .page__content > p a[href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona"]:hover,
 .page__content > p a[href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona"]:focus-visible {color: #ffd600;}
+
+/* Neutral resting links throughout the homepage; one yellow interaction color. */
+.masthead .greedy-nav a, .sidebar a {color: inherit;}
+.page__content a.supervisor-link {color: inherit;}
+.masthead .greedy-nav a:hover, .masthead .greedy-nav a:focus-visible,
+.sidebar a:hover, .sidebar a:focus-visible,
+.page__content a.supervisor-link:hover, .page__content a.supervisor-link:focus-visible {color: #ffd600;}
+.sidebar a i, .sidebar a svg {color: inherit !important;}
