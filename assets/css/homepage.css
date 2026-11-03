@@ -258,3 +258,9 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .shared-paper-action {
  transition: none !important;
 }
+
+/* Keep the site-name link free of both text and navigation underlines. */
+.masthead .masthead__menu-item--lg a,
+.masthead .masthead__menu-item--lg a:hover,
+.masthead .masthead__menu-item--lg a:focus-visible {text-decoration: none;}
+.masthead .masthead__menu-item--lg a::before {display: none;}
