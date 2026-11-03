@@ -380,3 +380,8 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  .page__content .event-entry h3 {grid-column: 1; grid-row: 2;}
  .page__content .event-entry .event-link {grid-column: 1; margin-top: .3em;}
 }
+
+/* University affiliation uses the body color until hovered or focused. */
+.page__content > p a[href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona"] {color: inherit;}
+.page__content > p a[href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona"]:hover,
+.page__content > p a[href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona"]:focus-visible {color: #ffd600;}

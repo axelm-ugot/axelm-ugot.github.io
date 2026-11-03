@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "Axel Malmcrona"
 title_separator          : "-"
 name                     : &name "Axel Malmcrona"
-description              : &description "PhD-student at Gothenburg University"
+description              : &description "PhD-student at University of Gothenburg"
 url                      : https://axelm-ugot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axelm-ugot.github.io"
@@ -32,7 +32,7 @@ author:
   pronouns         : "he/him/his"  
   bio              : "5th year PhD-student"
   location         : "Sweden"
-  employer         : "Gothenburg University"
+  employer         : "University of Gothenburg"
   uri              : # URL
   email            : "axel.malmcrona@economics.gu.se" 
 

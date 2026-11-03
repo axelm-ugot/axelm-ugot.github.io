@@ -10,7 +10,7 @@ homepage_styles: true
 
 <h1 class="name-ascii" aria-label="Axel Malmcrona"><span aria-hidden="true">░█▀█░█░█░█▀▀░█░░░░░█▄█░█▀█░█░░░█▄█░█▀▀░█▀▄░█▀█░█▀█░█▀█<br>░█▀█░▄▀▄░█▀▀░█░░░░░█░█░█▀█░█░░░█░█░█░░░█▀▄░█░█░█░█░█▀█<br>░▀░▀░▀░▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀░▀</span></h1>
 
-<p>I am a <strong>5th year PhD student</strong> in Economics at <a href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona">Gothenburg University</a>.</p>
+<p>I am a <strong>5th year PhD student</strong> in Economics at <a href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona">University of Gothenburg</a>.</p>
 
 <p>My research is in the intersection between <strong>Industrial Organization</strong> and <strong>Labor Economics</strong>, where I study how competition affects labor-market outcomes. My supervisors are <a class="supervisor-link" href="https://stennek.se/Home">Johan Stennek</a> and <a class="supervisor-link" href="https://adzemski.github.io/">Andreas Dzemski</a>.</p>
 
