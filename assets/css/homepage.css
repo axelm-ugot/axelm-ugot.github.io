@@ -362,3 +362,21 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .masthead .greedy-nav a:hover,
 .masthead .greedy-nav a:focus-visible {text-decoration: none;}
 .masthead .greedy-nav .visible-links a::before {display: none;}
+
+/* Share the final row between venue details and the right-aligned event link. */
+.page__content .event-entry {
+ display: grid;
+ grid-template-columns: minmax(0, 1fr) auto;
+ column-gap: 1em;
+}
+.page__content .event-entry h3 {grid-column: 1; grid-row: 1;}
+.page__content .event-entry .event-date {grid-column: 2; grid-row: 1; float: none; margin-left: 0;}
+.page__content .event-entry > p:not(.event-date):not(.event-details) {grid-column: 1 / -1;}
+.page__content .event-entry .event-details {grid-column: 1; margin-bottom: 0;}
+.page__content .event-entry .event-link {grid-column: 2; align-self: end; justify-self: end; text-align: right;}
+@media (max-width: 600px) {
+ .page__content .event-entry {grid-template-columns: minmax(0, 1fr);}
+ .page__content .event-entry .event-date {grid-column: 1; grid-row: 1;}
+ .page__content .event-entry h3 {grid-column: 1; grid-row: 2;}
+ .page__content .event-entry .event-link {grid-column: 1; margin-top: .3em;}
+}
