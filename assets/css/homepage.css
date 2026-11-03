@@ -45,7 +45,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content a.shared-paper-link {display: contents; text-decoration: none;}
 .linked-paper .shared-paper-link h3 {grid-row: 1; transition: color .18s ease;}
 .linked-paper .paper-authors {grid-row: 2;}
-.shared-paper-action {grid-row: 3; justify-self: start; margin-top: .55em; font-size: .8em; font-weight: 600; color: #24736b; text-decoration: none; text-underline-offset: 3px;}
+.shared-paper-action {grid-row: 3; justify-self: start; margin-top: .55em; font-size: .8em; font-weight: 600; color: #273c38; text-decoration: none; text-underline-offset: 3px;}
 .shared-paper-link:hover h3, .shared-paper-link:focus-visible h3 {color: #ffd600;}
 .shared-paper-link:hover .shared-paper-action, .shared-paper-link:focus-visible .shared-paper-action {color: #ffd600; text-decoration-thickness: 2px;}
 .shared-paper-link:focus-visible h3, .shared-paper-link:focus-visible .shared-paper-action {outline: 2px solid #24736b; outline-offset: 4px;}
