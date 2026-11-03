@@ -232,7 +232,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .author__avatar {width: 80px;}
 .author__avatar img {width: 100%; max-width: none; height: auto;}
 @media (min-width: 1200px) {
- .author__avatar {width: 220px; max-width: 100%;}
+ .author__avatar {width: 240px; max-width: none;}
 }
 
 .page__content .linked-paper {cursor: pointer;}
