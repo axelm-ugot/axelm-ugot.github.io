@@ -5,42 +5,25 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- 
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title>Example</title>
-        <style>
-pre{
-padding:0.2px;
-margin:0.2px;
-}
-</style>
-    </head>
-    <body>
-        <pre>
-░█▀█░█░█░█▀▀░█░░░░░█▄█░█▀█░█░░░█▄█░█▀▀░█▀▄░█▀█░█▀█░█▀█
+homepage_styles: true
+---
+
+<h1 class="name-ascii" aria-label="Axel Malmcrona"><span aria-hidden="true">░█▀█░█░█░█▀▀░█░░░░░█▄█░█▀█░█░░░█▄█░█▀▀░█▀▄░█▀█░█▀█░█▀█
 ░█▀█░▄▀▄░█▀▀░█░░░░░█░█░█▀█░█░░░█░█░█░░░█▀▄░█░█░█░█░█▀█
-░▀░▀░▀░▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀░▀
-    </pre>
-    </body>
-</html>                                                                                                                                                   
+░▀░▀░▀░▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀░▀</span></h1>
 
-I am a **5th year PhD student** in Economics at [Gothenburg University](https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona).
+<p>I am a <strong>5th year PhD student</strong> in Economics at <a href="https://www.gu.se/om-universitetet/hitta-person/axelmalmcrona">Gothenburg University</a>.</p>
 
-My research is in the intersection between **Industrial Organization** and **Labor Economics**, where I study how competition affects labor-market outcomes. My supervisors are [Johan Stennek](https://stennek.se/Home) and [Andreas Dzemski](https://adzemski.github.io/).
+<p>My research is in the intersection between <strong>Industrial Organization</strong> and <strong>Labor Economics</strong>, where I study how competition affects labor-market outcomes. My supervisors are <a class="supervisor-link" href="https://stennek.se/Home">Johan Stennek</a> and <a class="supervisor-link" href="https://adzemski.github.io/">Andreas Dzemski</a>.</p>
 
-**Work in Progress:**
+<h2 class="research-heading research-ascii" aria-label="Research"><span aria-hidden="true">░█▀▄░█▀▀░█▀▀░█▀▀░█▀█░█▀▄░█▀▀░█░█
+░█▀▄░█▀▀░▀▀█░█▀▀░█▀█░█▀▄░█░░░█▀█
+░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀</span></h2>
 
-Monopsony in the Swedish Labor Market<br>
-with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+<article class="research-paper"><h3>Monopsony in the Swedish Labor Market</h3><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
-The Job Diversion Matrix: How Workers’ Alternatives Determine the Harm from Layoffs and Mergers<br>
-with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+<article class="research-paper linked-paper"><a class="shared-paper-link" href="https://theodorfriederiszick.github.io/jmp_friederiszick.pdf"><h3><span class="paper-main-title">The Job Diversion Matrix</span><span class="paper-subtitle">How Workers’ Alternatives Determine the Harm from Layoffs and Mergers</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
-[How Do Firms Exercise Labor Market Power? Evidence from Swedish Pharmacies](https://nelsonsunuwar.github.io/jmp_sunuwar.pdf)<br>
-with [Theodor Friederiszick](https://theodorfriederiszick.github.io) and [Nelson Sunuwar](https://nelsonsunuwar.github.io/)
+<article class="research-paper linked-paper"><a class="shared-paper-link" href="https://nelsonsunuwar.github.io/jmp_sunuwar.pdf"><h3><span class="paper-main-title">How Do Firms Exercise Labor Market Power?</span><span class="paper-subtitle">Evidence from Swedish Pharmacies</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
-
-
-
-<small> © 2024 Axel Malmcrona. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+<p><small> © 2024 Axel Malmcrona. Powered by Jekyll &amp; AcademicPages, a fork of Minimal Mistakes.</small></p>
