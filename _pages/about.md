@@ -35,7 +35,7 @@ homepage_styles: true
 <p class="event-date"><time datetime="2026-12-09">9 December 2026</time> · Stockholm</p>
 <h3>SNS Job Market 2026<span class="paper-subtitle">Meet Tomorrow’s Leading Economists</span></h3>
 <p>I will attend SNS Job Market to meet prospective employers. Interested in my research or recruiting an economist? <a class="organiser-link" href="mailto:axel.malmcrona@economics.gu.se">Get in touch</a>.</p>
-<p class="event-details">SNS, Jakobsbergsgatan 18, Stockholm.</p>
+<p class="event-details">SNS, Jakobsbergsgatan 18, Stockholm. Organised by <a class="organiser-link" href="https://www.sns.se/" target="_blank" rel="noopener noreferrer">Studieförbundet Näringsliv och Samhälle (SNS)</a>.</p>
 <a class="event-link" href="https://www.sns.se/en/events/sns-job-market-2026-meet-tomorrows-leading-economists" target="_blank" rel="noopener noreferrer">Event details</a>
 </div>
 </section>

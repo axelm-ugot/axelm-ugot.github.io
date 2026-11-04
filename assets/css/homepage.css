@@ -459,3 +459,5 @@ html, body, .masthead, .masthead__inner-wrap, .greedy-nav, .greedy-nav button {b
 
 
 .page__content .research-heading {font-family:inherit; font-size:1.3em; font-weight:700; line-height:1.25; letter-spacing:normal; margin:1.8em 0 .8em; padding:0; border:0; white-space:normal;}
+
+.masthead .greedy-nav .masthead__menu-item--lg > a {font-size:1.2em;}
