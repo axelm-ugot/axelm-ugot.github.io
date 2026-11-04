@@ -443,19 +443,18 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .cv-heading a:focus-visible {color: #ffd600; text-decoration: none;}
 #cv {scroll-margin-top: 110px;}
 
-/* Warm gray surfaces and inverted yellow Upcoming cards. */
-html, body,
-.masthead, .masthead__inner-wrap, .greedy-nav, .greedy-nav button {background-color: #f0efeb;}
-.page__content .events-section .research-ascii {color: #ffd600;}
-.page__content .events-section .event-entry {background: #ffd600; color: #f0efeb;}
-.page__content .events-section .event-entry:nth-of-type(even) {background: #f0efeb; color: #ffd600;}
-.page__content .events-section .event-entry h3,
-.page__content .events-section .event-entry .event-link,
-.page__content .events-section .event-entry .organiser-link,
-.page__content .events-section .event-entry:nth-of-type(even) .event-link {color: inherit;}
-.page__content .events-section .event-entry:nth-of-type(n):hover:not(:has(a:not(.event-link):hover)) h3,
-.page__content .events-section .event-entry:nth-of-type(n):hover:not(:has(a:not(.event-link):hover)) .event-link,
-.page__content .events-section .event-entry:nth-of-type(n):has(.event-link:focus-visible) h3,
-.page__content .events-section .event-entry:nth-of-type(n):has(.event-link:focus-visible) .event-link,
-.page__content .events-section .event-entry .organiser-link:hover,
-.page__content .events-section .event-entry .organiser-link:focus-visible {color: #303532;}
+
+html, body, .masthead, .masthead__inner-wrap, .greedy-nav, .greedy-nav button {background-color:#f0efeb;}
+
+
+.page__content .cv-card {position:relative; background:#424946; color:#f0efeb; padding:1em 1.15em; display:grid; grid-template-columns:minmax(0,1fr) auto; gap:.4em 1em;}
+.page__content .cv-card a {display:contents; color:inherit; text-decoration:none;}
+.page__content .cv-card a::after {content:""; position:absolute; inset:0;}
+.page__content .cv-card h3 {margin:0; font-size:1.04em; grid-column:1;}
+.page__content .cv-card p {margin:0; font-size:.8em; grid-column:1; grid-row:2;}
+.page__content .cv-card .cv-action {grid-column:2; grid-row:2; align-self:end; font-size:.8em; font-weight:600;}
+.page__content .cv-card:hover h3, .page__content .cv-card:hover .cv-action,
+.page__content .cv-card:has(a:focus-visible) h3, .page__content .cv-card:has(a:focus-visible) .cv-action {color:#ffd600; text-decoration:underline; text-underline-offset:4px;}
+
+
+.page__content .research-heading {font-family:inherit; font-size:1.3em; font-weight:700; line-height:1.25; letter-spacing:normal; margin:1.8em 0 .8em; padding:0; border:0; white-space:normal;}

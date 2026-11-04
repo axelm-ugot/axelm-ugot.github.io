@@ -15,15 +15,14 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Upcoming"
-    url: /#events
-
   - title: "Work in Progress"
     url: /#work-in-progress
 
+  - title: "Upcoming"
+    url: /#events
+
   - title: "CV"
-    url: /files/CV_Axel_Malmcrona_.pdf
-    target: "_blank"
+    url: /#cv
     
 #  - title: "Guide"
 #    url: /markdown/
