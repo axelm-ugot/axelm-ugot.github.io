@@ -43,7 +43,7 @@ homepage_styles: true
 <h2 id="cv" class="research-heading cv-heading" aria-label="CV">CV</h2>
 <article class="cv-card">
 <a href="https://axelm-ugot.github.io/files/CV_Axel_Malmcrona_.pdf" target="_blank" rel="noopener noreferrer"><h3>Curriculum Vitae</h3><span class="cv-action">View CV</span></a>
-<p>Last updated <time datetime="2026-10-21">21 October 2026</time></p>
+<p>Last updated <time datetime="2026-11-05">5 November 2026</time></p>
 </article>
 
 <p><small> © 2024 Axel Malmcrona. Powered by Jekyll &amp; AcademicPages, a fork of Minimal Mistakes.</small></p>
