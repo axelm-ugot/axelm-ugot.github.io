@@ -278,10 +278,12 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 }
 .event-switcher-labels {display: flex; flex-wrap: wrap; gap: .6em 1.1em;}
 .event-switcher-labels label {margin: 0; color: inherit; cursor: pointer;}
+.event-switcher-labels label:hover {color: #ffd600;}
+.event-switcher-labels label:hover,
 #show-upcoming-events:checked ~ .event-switcher-labels label[for="show-upcoming-events"],
 #show-past-events:checked ~ .event-switcher-labels label[for="show-past-events"] {
- text-decoration: underline;
- text-underline-offset: .25em;
+ text-decoration: underline #ffd600 2px;
+ text-underline-offset: 4px;
 }
 #show-upcoming-events:focus-visible ~ .event-switcher-labels label[for="show-upcoming-events"],
 #show-past-events:focus-visible ~ .event-switcher-labels label[for="show-past-events"] {
