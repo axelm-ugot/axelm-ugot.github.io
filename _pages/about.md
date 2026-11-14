@@ -24,14 +24,6 @@ homepage_styles: true
 <section id="events" class="events-section" aria-label="Upcoming">
 <h2 class="research-heading" aria-label="Upcoming">Upcoming</h2>
 <div class="event-entry">
-<p class="event-date"><time datetime="2026-11-12">12 November 2026</time> · Stockholm</p>
-<h3>Technology and Power<span class="paper-subtitle">Challenges for Modern Labour Markets</span></h3>
-
-<p>I will join a panel discussion on employer market power, wages and employment.</p>
-<p class="event-details">Zätasalen, ABF-huset, Sveavägen 41. Organised by <a class="organiser-link" href="https://arenagruppen.se/" target="_blank" rel="noopener noreferrer">Arenagruppen</a> and <a class="organiser-link" href="https://arenagruppen.se/produktivitetskommissionen/" target="_blank" rel="noopener noreferrer">Facken inom industrins produktivitetskommission</a>.</p>
-<a class="event-link" href="https://arenagruppen.confetti.events/konferens-om-loner-sysselsattning-och-makt/" target="_blank" rel="noopener noreferrer">Programme and registration</a>
-</div>
-<div class="event-entry">
 <p class="event-date"><time datetime="2026-12-09">9 December 2026</time> · Stockholm</p>
 <h3>SNS Job Market 2026<span class="paper-subtitle">Meet Tomorrow’s Leading Economists</span></h3>
 <p>I will attend SNS Job Market to meet prospective employers. Interested in my research or recruiting an economist? <a class="organiser-link" href="mailto:axel.malmcrona@economics.gu.se">Get in touch</a>.</p>
@@ -39,6 +31,17 @@ homepage_styles: true
 <a class="event-link" href="https://www.sns.se/en/events/sns-job-market-2026-meet-tomorrows-leading-economists" target="_blank" rel="noopener noreferrer">Event details</a>
 </div>
 </section>
+
+<details id="past-events" class="events-section">
+<summary class="research-heading">Past Events</summary>
+<div class="event-entry">
+<p class="event-date"><time datetime="2026-11-12">12 November 2026</time> · Stockholm</p>
+<h3>Technology and Power<span class="paper-subtitle">Challenges for Modern Labour Markets</span></h3>
+<p>I joined a panel discussion on employer market power, wages and employment.</p>
+<p class="event-details">Zätasalen, ABF-huset, Sveavägen 41. Organised by <a class="organiser-link" href="https://arenagruppen.se/" target="_blank" rel="noopener noreferrer">Arenagruppen</a> and <a class="organiser-link" href="https://arenagruppen.se/produktivitetskommissionen/" target="_blank" rel="noopener noreferrer">Facken inom industrins produktivitetskommission</a>.</p>
+<a class="event-link" href="https://arenagruppen.confetti.events/konferens-om-loner-sysselsattning-och-makt/" target="_blank" rel="noopener noreferrer">Programme</a>
+</div>
+</details>
 
 <h2 id="cv" class="research-heading cv-heading" aria-label="CV">CV</h2>
 <article class="cv-card">

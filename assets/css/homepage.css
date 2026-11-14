@@ -268,6 +268,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 /* Public speaking and events. */
 .events-section {margin-top: 2.5em;}
+.page__content #past-events > summary {cursor: pointer;}
 .page__content .event-entry {padding: 1.15em 1.25em; background: #424946; color: var(--page-background);}
 .page__content .event-entry h3 {margin: .5em 0 .8em; font-size: 1.04em; line-height: 1.45;}
 .page__content .event-entry .paper-subtitle {font-size: .9em; font-weight: 400; margin-top: .18em;}
