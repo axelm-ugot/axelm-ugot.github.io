@@ -21,8 +21,15 @@ homepage_styles: true
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://nelsonsunuwar.github.io/jmp_sunuwar.pdf" data-goatcounter-click="pdf-labor-market-power" data-goatcounter-title="How Do Firms Exercise Labor Market Power?" data-goatcounter-no-session="1"><h3><span class="paper-main-title">How Do Firms Exercise Labor Market Power?</span><span class="paper-subtitle">Evidence from Swedish Pharmacies</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
-<section id="events" class="events-section" aria-label="Upcoming">
-<h2 class="research-heading" aria-label="Upcoming">Upcoming</h2>
+<section id="events" class="events-section" aria-label="Events">
+<div class="event-switcher" role="group" aria-label="Event listings">
+<input type="radio" name="event-period" id="show-upcoming-events" aria-controls="upcoming-events" checked>
+<input type="radio" name="event-period" id="show-past-events" aria-controls="past-events">
+<div class="research-heading event-switcher-labels">
+<label for="show-upcoming-events">Upcoming</label>
+<label for="show-past-events">Past Events</label>
+</div>
+<div id="upcoming-events">
 <div class="event-entry">
 <p class="event-date"><time datetime="2026-12-09">9 December 2026</time> · Stockholm</p>
 <h3>SNS Job Market 2026<span class="paper-subtitle">Meet Tomorrow’s Leading Economists</span></h3>
@@ -30,10 +37,8 @@ homepage_styles: true
 <p class="event-details">SNS, Jakobsbergsgatan 18, Stockholm. Organised by <a class="organiser-link" href="https://www.sns.se/" target="_blank" rel="noopener noreferrer">Studieförbundet Näringsliv och Samhälle (SNS)</a>.</p>
 <a class="event-link" href="https://www.sns.se/en/events/sns-job-market-2026-meet-tomorrows-leading-economists" target="_blank" rel="noopener noreferrer">Event details</a>
 </div>
-</section>
-
-<details id="past-events" class="events-section">
-<summary class="research-heading">Past Events</summary>
+</div>
+<div id="past-events">
 <div class="event-entry">
 <p class="event-date"><time datetime="2026-11-12">12 November 2026</time> · Stockholm</p>
 <h3>Technology and Power<span class="paper-subtitle">Challenges for Modern Labour Markets</span></h3>
@@ -41,7 +46,9 @@ homepage_styles: true
 <p class="event-details">Zätasalen, ABF-huset, Sveavägen 41. Organised by <a class="organiser-link" href="https://arenagruppen.se/" target="_blank" rel="noopener noreferrer">Arenagruppen</a> and <a class="organiser-link" href="https://arenagruppen.se/produktivitetskommissionen/" target="_blank" rel="noopener noreferrer">Facken inom industrins produktivitetskommission</a>.</p>
 <a class="event-link" href="https://arenagruppen.confetti.events/konferens-om-loner-sysselsattning-och-makt/" target="_blank" rel="noopener noreferrer">Programme</a>
 </div>
-</details>
+</div>
+</div>
+</section>
 
 <h2 id="cv" class="research-heading cv-heading" aria-label="CV">CV</h2>
 <article class="cv-card">

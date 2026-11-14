@@ -268,7 +268,28 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 /* Public speaking and events. */
 .events-section {margin-top: 2.5em;}
-.page__content #past-events > summary {cursor: pointer;}
+.event-switcher {position: relative;}
+.event-switcher > input {
+ position: absolute;
+ width: 1px;
+ height: 1px;
+ margin: 0;
+ clip-path: inset(50%);
+}
+.event-switcher-labels {display: flex; flex-wrap: wrap; gap: .6em 1.1em;}
+.event-switcher-labels label {margin: 0; color: inherit; cursor: pointer;}
+#show-upcoming-events:checked ~ .event-switcher-labels label[for="show-upcoming-events"],
+#show-past-events:checked ~ .event-switcher-labels label[for="show-past-events"] {
+ text-decoration: underline;
+ text-underline-offset: .25em;
+}
+#show-upcoming-events:focus-visible ~ .event-switcher-labels label[for="show-upcoming-events"],
+#show-past-events:focus-visible ~ .event-switcher-labels label[for="show-past-events"] {
+ outline: 2px solid currentColor;
+ outline-offset: 4px;
+}
+#show-upcoming-events:not(:checked) ~ #upcoming-events,
+#show-past-events:not(:checked) ~ #past-events {display: none;}
 .page__content .event-entry {padding: 1.15em 1.25em; background: #424946; color: var(--page-background);}
 .page__content .event-entry h3 {margin: .5em 0 .8em; font-size: 1.04em; line-height: 1.45;}
 .page__content .event-entry .paper-subtitle {font-size: .9em; font-weight: 400; margin-top: .18em;}
