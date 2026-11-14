@@ -143,9 +143,11 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "goatcounter" # false (default), "google", "google-universal", "google-analytics-4", "goatcounter", "custom"
   google:
     tracking_id          :
+  goatcounter:
+    endpoint             : "https://malmax.goatcounter.com/count"
 
 
 # Reading Files
