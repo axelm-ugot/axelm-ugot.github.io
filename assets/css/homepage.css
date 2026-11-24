@@ -197,9 +197,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 
 .paper-main-title, .paper-subtitle {display: block;}
 .page__content .research-paper .paper-subtitle {
- font-size: .9em;
- font-weight: 400;
- line-height: 1.45;
+ font-size: calc(1em * var(--paper-subtitle-scale));
  margin-top: .18em;
 }
 
@@ -370,19 +368,30 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  margin: .15em 0 .45em;
  text-align: right;
 }
-.page__content .research-paper h3,
+.page__content {
+ --paper-title-size: 1.04em;
+ --paper-subtitle-scale: .9;
+}
+.page__content .research-paper h3 {
+ font-family: inherit;
+ font-size: var(--paper-title-size);
+ font-weight: 650;
+ line-height: 1.45;
+}
+.page__content .event-entry .event-date,
+.page__content .job-market-paper .paper-label {
+ font-size: calc(var(--paper-title-size) * var(--paper-subtitle-scale));
+}
+.page__content .research-paper .paper-subtitle,
 .page__content .event-entry .event-date,
 .page__content .job-market-paper .paper-label {
  font-family: inherit;
- font-size: 1.04em;
- font-weight: 650;
+ font-weight: 400;
  line-height: 1.45;
 }
 .page__content .event-entry h3 {margin-top: 0;}
 @media (max-width: 600px) {
- .page__content .research-paper h3,
- .page__content .event-entry .event-date,
- .page__content .job-market-paper .paper-label {font-size: 1em;}
+ .page__content {--paper-title-size: 1em;}
  .page__content .event-entry .event-date,
  .page__content .job-market-paper .paper-label {
   grid-column: 1;
