@@ -15,7 +15,7 @@ homepage_styles: true
 
 <h2 id="work-in-progress" class="research-heading" aria-label="Work in Progress">Work in Progress</h2>
 
-<article class="research-paper linked-paper job-market-paper"><strong class="paper-label">Job Market Paper · Fall 2026</strong><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://axelm-ugot.github.io/files/production_markdowns.pdf" data-goatcounter-click="pdf-monopsony-wage-inequality" data-goatcounter-title="Monopsony and Wage Inequality in Sweden" data-goatcounter-no-session="1"><h3><span class="paper-main-title">Monopsony and Wage Inequality in Sweden</span><span class="paper-subtitle">The Effect of Markdowns on Immigrant and Gender Wage Gaps</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
+<article class="research-paper linked-paper job-market-paper"><strong class="paper-label">Job Market Paper</strong><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://axelm-ugot.github.io/files/production_markdowns.pdf" data-goatcounter-click="pdf-monopsony-wage-inequality" data-goatcounter-title="Monopsony and Wage Inequality in Sweden" data-goatcounter-no-session="1"><h3><span class="paper-main-title">Monopsony and Wage Inequality in Sweden</span><span class="paper-subtitle">The Effect of Markdowns on Immigrant and Gender Wage Gaps</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
 <article class="research-paper linked-paper"><a class="shared-paper-link" target="_blank" rel="noopener noreferrer" href="https://theodorfriederiszick.github.io/jmp_friederiszick.pdf" data-goatcounter-click="pdf-job-diversion-matrix" data-goatcounter-title="The Job Diversion Matrix" data-goatcounter-no-session="1"><h3><span class="paper-main-title">The Job Diversion Matrix</span><span class="paper-subtitle">How Workers’ Alternatives Determine the Harm from Layoffs and Mergers</span></h3><span class="shared-paper-action">View paper</span></a><p class="paper-authors">with <a class="coauthor-theo" href="https://theodorfriederiszick.github.io">Theodor Friederiszick</a> and <a class="coauthor-nelson" href="https://nelsonsunuwar.github.io/">Nelson Sunuwar</a></p></article>
 
@@ -31,7 +31,7 @@ homepage_styles: true
 </div>
 <div id="upcoming-events">
 <div class="event-entry">
-<p class="event-date"><time datetime="2026-12-09">9 December 2026</time> · Stockholm</p>
+<p class="event-date"><time datetime="2026-12-09">9 December 2026</time></p>
 <h3>SNS Job Market 2026<span class="paper-subtitle">Meet Tomorrow’s Leading Economists</span></h3>
 <p>I will attend SNS Job Market to meet prospective employers. Interested in my research or recruiting an economist? <a class="organiser-link" href="mailto:axel.malmcrona@economics.gu.se">Get in touch</a>.</p>
 <p class="event-details">SNS, Jakobsbergsgatan 18, Stockholm. Organised by <a class="organiser-link" href="https://www.sns.se/" target="_blank" rel="noopener noreferrer">Studieförbundet Näringsliv och Samhälle (SNS)</a>.</p>
