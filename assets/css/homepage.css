@@ -296,7 +296,6 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .event-entry h3 {margin: .5em 0 .8em; font-size: 1.04em; line-height: 1.45;}
 .page__content .event-entry .paper-subtitle {font-size: .9em; font-weight: 400; margin-top: .18em;}
 .page__content .event-entry p {font-size: .84em; line-height: 1.6; margin: 0 0 .9em;}
-.page__content .event-entry .event-date {font-family: monospace; font-size: .8em;}
 .page__content .event-link {color: var(--page-background); font-size: .8em; font-weight: 600; text-decoration: none;}
 .page__content .event-link:hover, .page__content .event-link:focus-visible {color: #ffd600; text-decoration: underline; text-underline-offset: 4px;}
 
@@ -339,7 +338,9 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 .page__content .events-section .event-entry:nth-of-type(even):has(.event-link:focus-visible) .event-link {color: #ffd600;}
 
 
-.page__content .event-entry {padding: .9em 1.15em;}
+.page__content .event-entry,
+.page__content .job-market-paper {padding-top: .9em; padding-right: 1.15em;}
+.page__content .event-entry {padding-bottom: .9em; padding-left: 1.15em;}
 .page__content .event-entry h3 {margin: .35em 0 .5em;}
 .page__content .event-entry p {line-height: 1.45; margin-bottom: .45em;}
 
@@ -360,19 +361,22 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 }
 
 
-.page__content .event-entry {display: flow-root;}
-.page__content .event-entry .event-date {
- float: right;
- margin: .15em 0 .45em 1.2em;
- font-size: .72em;
+.page__content .event-entry .event-date,
+.page__content .job-market-paper .paper-label {
+ grid-column: 2;
+ grid-row: 1;
+ align-self: start;
+ justify-self: end;
+ margin: .15em 0 .45em;
+ font: normal .72em/1.45 monospace;
  text-align: right;
 }
 .page__content .event-entry h3 {margin-top: 0;}
 @media (max-width: 600px) {
- .page__content .event-entry .event-date {
-  float: none;
+ .page__content .event-entry .event-date,
+ .page__content .job-market-paper .paper-label {
+  grid-column: 1;
   margin: 0 0 .35em;
-  text-align: right;
  }
 }
 
@@ -395,13 +399,11 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  column-gap: 1em;
 }
 .page__content .event-entry h3 {grid-column: 1; grid-row: 1;}
-.page__content .event-entry .event-date {grid-column: 2; grid-row: 1; float: none; margin-left: 0;}
 .page__content .event-entry > p:not(.event-date):not(.event-details) {grid-column: 1 / -1;}
 .page__content .event-entry .event-details {grid-column: 1; margin-bottom: 0;}
 .page__content .event-entry .event-link {grid-column: 2; align-self: end; justify-self: end; text-align: right;}
 @media (max-width: 600px) {
  .page__content .event-entry {grid-template-columns: minmax(0, 1fr);}
- .page__content .event-entry .event-date {grid-column: 1; grid-row: 1;}
  .page__content .event-entry h3 {grid-column: 1; grid-row: 2;}
  .page__content .event-entry .event-link {grid-column: 1; margin-top: .3em;}
 }
@@ -441,16 +443,7 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
 }
 
 .page__content .job-market-paper .shared-paper-link h3 {grid-column: 1;}
-.job-market-paper .paper-label {
- grid-column: 2;
- grid-row: 1;
- justify-self: end;
- align-self: start;
- font-size: .875rem;
- line-height: 1.45;
-}
 @media (max-width: 600px) {
- .job-market-paper .paper-label {grid-column: 1; margin-bottom: .45em;}
  .page__content .job-market-paper .shared-paper-link h3 {grid-row: 2;}
  .page__content .job-market-paper .paper-authors {grid-row: 3;}
  .page__content .job-market-paper .shared-paper-action {grid-row: 4;}
