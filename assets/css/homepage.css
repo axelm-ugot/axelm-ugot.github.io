@@ -6,14 +6,14 @@
 .page__content > p {line-height: 1.7;}
 .page__content .research-heading {font-size: 1.3em; margin: 2em 0 1.3em; padding-bottom: .55em; border-bottom: 1px solid #dbe4e0;}
 .page__content .research-paper {margin: 0 0 1.65em;}
-.page__content .research-paper h3 {font-size: 1.04em; line-height: 1.45; font-weight: 650; margin: 0 0 .35em; color: #273c38;}
+.page__content .research-paper h3 {margin: 0 0 .35em; color: #273c38;}
 .page__content .research-paper h3 a {color: inherit; text-decoration: none;}
 .page__content .research-paper h3 a:hover {text-decoration: underline;}
 .page__content .paper-authors {font-size: .84em; line-height: 1.55; color: #5e6966; margin: 0;}
 .page__content .paper-authors a {color: inherit; text-decoration: none;}
 .page__content .paper-authors a:hover {text-decoration: underline; color: inherit;}
 .page__content > p:last-child {margin-top: 3em; color: #68736f; font-size: .8em;}
-@media(max-width:600px){.page__content .preview-name{font-size:1.75em}.page__content .research-paper h3{font-size:1em}}
+@media(max-width:600px){.page__content .preview-name{font-size:1.75em}}
 
 
 .page__content .research-paper h3 a {text-decoration: underline; text-decoration-color: currentColor; text-decoration-thickness: 1px; text-underline-offset: 4px; transition: color .18s ease, text-decoration-color .18s ease;}
@@ -368,11 +368,21 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  align-self: start;
  justify-self: end;
  margin: .15em 0 .45em;
- font: normal .72em/1.45 monospace;
  text-align: right;
+}
+.page__content .research-paper h3,
+.page__content .event-entry .event-date,
+.page__content .job-market-paper .paper-label {
+ font-family: inherit;
+ font-size: 1.04em;
+ font-weight: 650;
+ line-height: 1.45;
 }
 .page__content .event-entry h3 {margin-top: 0;}
 @media (max-width: 600px) {
+ .page__content .research-paper h3,
+ .page__content .event-entry .event-date,
+ .page__content .job-market-paper .paper-label {font-size: 1em;}
  .page__content .event-entry .event-date,
  .page__content .job-market-paper .paper-label {
   grid-column: 1;
