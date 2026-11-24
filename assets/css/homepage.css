@@ -440,6 +440,22 @@ a.supervisor-link:hover .external-link-arrow {transform: translate(1px,-1px);}
  .page__content .linked-paper .shared-paper-action {grid-column: 1; grid-row: 3; margin-top: .3em;}
 }
 
+.page__content .job-market-paper .shared-paper-link h3 {grid-column: 1;}
+.job-market-paper .paper-label {
+ grid-column: 2;
+ grid-row: 1;
+ justify-self: end;
+ align-self: start;
+ font-size: .875rem;
+ line-height: 1.45;
+}
+@media (max-width: 600px) {
+ .job-market-paper .paper-label {grid-column: 1; margin-bottom: .45em;}
+ .page__content .job-market-paper .shared-paper-link h3 {grid-row: 2;}
+ .page__content .job-market-paper .paper-authors {grid-row: 3;}
+ .page__content .job-market-paper .shared-paper-action {grid-row: 4;}
+}
+
 /* Align desktop navigation and content to the enlarged portrait column. */
 @media (min-width: 1200px) {
  :root {--portrait-width: 280px; --column-offset: 320px;}
